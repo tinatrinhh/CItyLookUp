@@ -6,6 +6,7 @@ The CityLookup project is a Java application that allows users to manage and ana
 
 - **CityStats Class**: Represents city statistics, including attributes such as name, population, cost of living index, etc.
 - **CityLookup Class**: Manages a list of `CityStats` objects and provides functionality for sorting and displaying cities based on their cost of living index.
+- **COLI.txt**: this file contains the 6 individual indices (groceries, housing, utilities, transportation, healthcare, miscellaneous goods and services) for 334 American cities. Each line in the file contains 6 discussed indices, the state abbreviation, and the city name (which can include spaces)
 
 ## Functionality
 
